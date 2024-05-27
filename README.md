@@ -3,7 +3,7 @@
 ## Introduction
 An SQL analysis of traffic crash reports on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). Data shown as is from the electronic crash reporting system (E-Crash) at CPD, excluding any personally identifiable information. 
 
-* [Data Analysis Question & Answers](https://github.com/Upasana2001/chicago_traffic_crashes/blob/main/QUESTIONS_AND_ANSWERS.md)
+* [Data Analysis Question & Answers](https://github.com/Upasana2001/SQL-Project/blob/main/QUESTIONS_AND_ANSWERS.md)
 
 
 ## Datasets used
